@@ -21196,7 +21196,7 @@ PrefabInstance:
       objectReference: {fileID: 698824760}
     - target: {fileID: 4412670525257733964, guid: 5f7adc0c7560da2489e5afbf67820e2f, type: 3}
       propertyPath: m_Name
-      value: Cemetary
+      value: Cemetery
       objectReference: {fileID: 0}
     - target: {fileID: 4500848130227666397, guid: 5f7adc0c7560da2489e5afbf67820e2f, type: 3}
       propertyPath: m_Mesh
